@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  /* font-size: 1.6rem; */
+  line-height: 1.7;
+  height: 100%;
+  
+  background-color: #0B4373;
+  color: #FFF;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.main {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex: 0 0 auto;
+}
+
+
+
+// .heading-primary {
+
+// }
+
+// .heading-secondary {
+
+// }
+
+// .heading-tertiary {
+
+// }
+
+// .paragraph {
+
+// }
